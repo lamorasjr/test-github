@@ -1,9 +1,0 @@
- Hello world 2!
-
-change on line 3
-
-change on line 4
-
-final
-
-new feature test2 from release 3.1
