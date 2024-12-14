@@ -3,3 +3,5 @@ Hello world!
 update from new branch!
 
 on going changes!
+
+added fixes for 3.0
